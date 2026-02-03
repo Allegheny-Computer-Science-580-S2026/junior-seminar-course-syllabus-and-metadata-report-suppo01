@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/suppo01/WinClean-Data-Cleaning-Engine)
 
 ### GitHub Repository for Research Data
 
@@ -81,6 +81,11 @@ Example entries:
   models
 - **Student Name Three / Graph Algorithm Visualization**: Recommended adding
   real-time performance comparison; Alex added this feature in Week 12
+
+My entries:
+
+- **Logan Greer / CaddySense**: Highlighted the use of a separate bulletpointed section as helpful for defining topic central
+  jargon; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/8)
 
 ### Technical Discussions and Problem-Solving
 
