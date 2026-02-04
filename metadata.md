@@ -71,21 +71,15 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
-Example entries:
-
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
-
 My entries:
 
-- **Logan Greer / CaddySense**: Highlighted the use of a separate bulletpointed section as helpful for defining topic central
-  jargon; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/8)
+- **Logan Greer / CaddySense AI Powered Assistant Tool**: Highlighted the use of a separate bulletpointed section as helpful
+for defining topic central jargon; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/8)
+
+- **Autumn Davison / Allergy Safe Recipe Site**: Shared knowledge of webflow and a strategy for making a website (using a web
+design agent that generates the html code that corresponds to the design) as well as knowledge that CSS is needed to correctly
+size the site and pointed in the direction of Prof. Luman as a helpful resource; This was an informal discussion so there is no
+repository link to share
 
 ### Technical Discussions and Problem-Solving
 
