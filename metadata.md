@@ -76,10 +76,8 @@ My entries:
 - **Logan Greer / CaddySense AI Powered Assistant Tool**: Highlighted the use of a separate bulletpointed section as helpful
 for defining topic central jargon; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/8)
 
-- **Autumn Davison / Allergy Safe Recipe Site**: Shared knowledge of webflow and a strategy for making a website (using a web
-design agent that generates the html code that corresponds to the design) as well as knowledge that CSS is needed to correctly
-size the site and pointed in the direction of Prof. Luman as a helpful resource; This was an informal discussion so there is no
-repository link to share
+- **Coltin Colucci / GDBuddy**: Suggested providing a working definition of HIL for those unfamiliar with the process and a
+clearer system for referencing sources; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/6)
 
 ### Technical Discussions and Problem-Solving
 
@@ -90,15 +88,12 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Your Contribution**: [What you shared, suggested, or helped debug]
 - **Outcome**: [How it helped advance the research]
 
-Example entries:
+My entries:
 
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Autumn Davison / Creating a Website**: Shared knowledge of webflow and a strategy for making a website (using a web
+design agent that generates the html code that corresponds to the design) as well as knowledge that CSS is needed to correctly
+size the site and pointed in the direction of Prof. Luman as a helpful resource; Advanced the research by giving a good sense
+of next steps in development.
 
 ### Research Group Meeting Participation
 
