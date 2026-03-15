@@ -79,6 +79,15 @@ for defining topic central jargon; [Link to my issue in the issue tracker](https
 - **Coltin Colucci / GDBuddy**: Suggested providing a working definition of HIL for those unfamiliar with the process and a
 clearer system for referencing sources; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/6)
 
+- **Coltin Colucci / GDBuddy**: Suggested adding diagrams, breaking up text blocks more with bullet points possibly being
+utilized for listing things like limitations, and having more context for explaining what the different acronyms mean for the
+hardware; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/8)
+
+- **Logan Greer / CaddySense Golf Assistant**: Suggested adding a section talking about how to use CaddySense; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/13)
+
+- **Veronica McNeece / HueCloset**: Suggested adding graphics to show HueCloset and help break up the text and moving the
+statement about aiming to avoid westernizing culture to the ethical implications section; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/3)
+
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
