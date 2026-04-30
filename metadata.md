@@ -42,7 +42,9 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/suppo01/WinClean-Experiment-and-Data-Collection)
+
+- Please note that the correct csv file of data used in my report is the one called `real_output.csv`.
 
 ## Research Project Title
 
@@ -66,8 +68,8 @@ Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
 - **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
+- **Feedback Provided**: [Brief description of the feedback, suggestions, or
+  questions you contributed]
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [Provide a link to a GitHub repository's issue tracker]
 
@@ -114,14 +116,8 @@ Note particularly meaningful contributions during research group meetings:
 
 Example entries:
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Week 11 / Diagram Issues**: I found a solution to rendering issues with the mermaid diagrams in Quarto and shared the
+solution with several professors as well as 3 students having similar problems with mermaid.
 
 ### Research Resources Shared
 
@@ -134,12 +130,9 @@ with the research group that helped advance collective knowledge:
 
 Example entries:
 
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
+- **Citing Sources for the Research Report**: I showed Sam Roque and Duru Akbas how to cite sources in the bibliography file
+and how to label them inside the quarto files during week 15. I also showed them resources for citing Github repositories in
+particular. It helped them ensure they had a proper references setup for their final reports.
 
 ## Additional Project Information
 
