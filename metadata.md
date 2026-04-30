@@ -90,6 +90,10 @@ hardware; [Link to my issue in the issue tracker](https://github.com/Allegheny-C
 - **Veronica McNeece / HueCloset**: Suggested adding graphics to show HueCloset and help break up the text and moving the
 statement about aiming to avoid westernizing culture to the ethical implications section; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-veronica-mcneece/issues/3)
 
+- **Sam Roque / Alluder**: Suggested using more diagrams and code segments to explain the methods used in producing Alluder as
+well as breaking up the bulleted lists throughout the chapter to give opportunities for further detail on some aspects of the
+tech stack behind the tool; [Link to my issue in the issue tracker](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Sroque27/issues/10)
+
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
